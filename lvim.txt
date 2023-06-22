@@ -1,0 +1,32 @@
+     _/      _/                      _/      _/  _/                 ]]
+    _/_/    _/    _/_/      _/_/    _/      _/      _/_/_/  _/_/    ]]
+   _/  _/  _/  _/_/_/_/  _/    _/  _/      _/  _/  _/    _/    _/   ]]
+  _/    _/_/  _/        _/    _/    _/  _/    _/  _/    _/    _/    ]]
+ _/      _/    _/_/_/    _/_/        _/      _/  _/    _/    _/     ]]
+--------------------------------------------------------------------]]
+    SHORT CUTS                                                      ]]
+--------------------------------------------------------------------]]
+n | r   | redo                        |v| d  | cut into void (delete)]]
+o | u   | undo                        |i| Cvi| insert multiline      ]]
+r | Cv  | visual mode                 |s|
+m | gd  | get definition              |u|
+a | gl  | show errors                 |a|
+l |_gl  | git blame                   |l|
+  |_gd  | git diff                    | |
+  | Cr  | replace                     | |
+  | K   | show hover                  | |
+  | p   | add line                    | |
+  | t   | goto top and first char     | |
+  |f<k> | find <key>                  | |
+  |di({"| delete in                   | |
+  |yi({"| yank in                     | |
+  |ci({"| cut in                      | |
+  | *   | next instance               | |
+--------------------------------------------------------------------]]
+     NAVIGATION
+--------------------------------------------------------------------]]
+< >    | next, prev buffer
+_e     | open explorer
+_f     | search file name
+_st    | search text
+_bb    | new buffer
